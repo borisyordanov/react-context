@@ -1,6 +1,8 @@
 import React from 'react';
 
-// first we will make a new context
+// this is the equivalent to the createStore method of Redux
+// https://redux.js.org/api/createstore
+
 const MyContext = React.createContext();
 
 export default MyContext;

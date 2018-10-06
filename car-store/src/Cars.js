@@ -4,6 +4,7 @@ import Car from './Car';
 const Cars = props => (
 	<Fragment>
 		<h4>Cars:</h4>
+        {/* Finally we can use data */}
 		{Object.keys(props.cars).map(carID => (
 			<Car
 				key={carID}

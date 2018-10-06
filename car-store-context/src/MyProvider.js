@@ -7,10 +7,7 @@ class MyProvider extends Component {
 			car001: { name: 'Honda', price: 100 },
 			car002: { name: 'BMW', price: 150 },
 			car003: { name: 'Mercedes', price: 200 }
-		},
-		electronics: null,
-		clothes: null,
-		shoes: null
+		}
 	};
 
 	render() {
