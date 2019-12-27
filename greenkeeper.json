@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "car-store-context/package.json",
+        "car-store/package.json"
+      ]
+    }
+  }
+}
